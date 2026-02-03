@@ -40,3 +40,4 @@
 
 ### 📫 Reach Me
 **anishreddyboppidi@gmail.com**
+![snake gif](https://github.com/Anishreddy-gith/Anishreddy-gith/blob/output/github-contribution-grid-snake.svg)
