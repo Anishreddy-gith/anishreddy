@@ -15,20 +15,21 @@
 </p>
 
 ---
+---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anishreddy-gith&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://streak-stats.demolab.com?user=Anishreddy-gith&theme=tokyonight&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anishreddy-gith&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Anishreddy-gith&theme=tokyonight&cache_seconds=86400" />
 </p>
-
 
 ---
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anishreddy-gith&theme=react-dark&area=true" />
+  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Anishreddy-gith&theme=react-dark&area=true" />
 </p>
+
 
 
 ---
@@ -43,4 +44,6 @@
 
 ### 📫 Reach Me
 **anishreddyboppidi@gmail.com**
-![snake gif](https://github.com/Anishreddy-gith/Anishreddy-gith/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img width="100%" src="https://github.com/Anishreddy-gith/Anishreddy-gith/blob/output/github-contribution-grid-snake.svg" />
+</p>
