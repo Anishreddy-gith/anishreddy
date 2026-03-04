@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Reddy</h1>
-<h3 align="center">Computer Science Student | AI/ML | IEEE | Research Enthusiast</h3>
+<h3 align="center">Computer Science Student | AI/ML | CyberSecurity | Research Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:anishreddyboppidi@gmail.com">Email</a> •
